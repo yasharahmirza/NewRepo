@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite time="7.996" tests="1" failures="0" errors="0" hostname="Systems_Deployment_Environment" id="5223" name="Automated - PrintName - 1.0.47982034-alpha" package="PrintName_Tests-1.0.47982034-alpha" timestamp="2020-07-09T08:20:44.747Z">
+    <testcase assertions="1" classname="PrintName" name="TestCase.xaml" status="Passed" time="7.996">
+      <system-out>Test case TestCase.xaml (v1.0.47982034-alpha) executed as job 9031760 and took 7996ms. Logs are available at https://cloud.uipath.com/systeybqhkhs/SystemsLimibwes511059/test/executions/5223/logs/9031760?fid=363645</system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
